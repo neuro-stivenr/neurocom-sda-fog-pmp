@@ -1,3 +1,4 @@
 # neurocom-sda-fog-pmp
 
-Coming soon ;)
+Uploading all the code as is for now.
+Better documentation/comments coming soon ;)
